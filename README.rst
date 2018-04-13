@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FJeremip11%2Ftornado.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FJeremip11%2Ftornado?ref=badge_shield)
+
 Tornado Web Server
 ==================
 
@@ -46,3 +48,7 @@ Documentation
 
 Documentation and links to additional resources are available at
 http://www.tornadoweb.org
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FJeremip11%2Ftornado.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FJeremip11%2Ftornado?ref=badge_large)
